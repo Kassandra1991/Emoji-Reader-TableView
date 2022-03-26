@@ -11,5 +11,5 @@ struct Emoji {
     var emoji: String
     var name: String
     var discription: String
-    var isFavorit: Bool
+    var isFavourite: Bool
 }
